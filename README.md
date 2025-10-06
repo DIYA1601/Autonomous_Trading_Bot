@@ -1,2 +1,0 @@
-# Autonomous_Trading_Bot
-Autonomous_Trading_Bot
